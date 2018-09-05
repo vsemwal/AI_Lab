@@ -5,3 +5,4 @@
 1. Water Jug Problem using Search Method
 1. Use of Perceptron in AND, OR Classification
 1. Use of MLP to classify XOR Gate
+1. Use of MLP to do classification in **Iris Dataset**
