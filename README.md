@@ -24,6 +24,6 @@
  1. Use of MLP to do classification in **Iris Dataset**
   
 1. Probability
-  1. Conditional, Marginal Probability
-  1. Bayes Formulae
-  1. Bayesian Net
+ 1. Conditional, Marginal Probability
+ 1. Bayes Formulae
+ 1. Bayesian Net
