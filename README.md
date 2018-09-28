@@ -10,7 +10,7 @@
 		4. Uniform Cost Search
 		5. Hill Climbing
 		6. Beam Hill Climbing
- 	1. Informed Serach
+ 	2. Informed Serach
 		1. Best First Search
 		2. A* Search
 		3. Tabu Search
