@@ -21,7 +21,12 @@
 	1. Use of Perceptron in AND, OR Classification
 	2. Use of MLP to classify XOR Gate
 	3. Use of MLP to do classification in **Iris Dataset** 
-3. Probability
+1. Probability
 	1. Conditional, Marginal Probability
 	2. Bayes Formulae
 	3. Bayesian Net
+1. Markov and Hidden Markov Model
+1. SVM
+	1. Hard Margin Classifier
+	2. Soft Margin Classifier
+	
